@@ -1,0 +1,19 @@
+# MATLAB autosave
+*.asv
+*.m~
+*.autosave
+
+# Figures
+*.fig
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+
+# Large outputs 
+output/
+results/
+temp/
